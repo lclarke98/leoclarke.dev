@@ -1,8 +1,10 @@
 <template>
-  <div>
+    <div>
     <Header/>
-    <div class="relative flex items-top justify-center min-h-screen bg-gray-100 sm:items-center sm:pt-0">
-        <h1>This is the contact page</h1>
+    <div class="relative flex min-h-screen bg-gray-100 ">
+        <div class="p-20">
+          <h1 class="text-5xl">Contact:</h1>
+        </div>
     </div>
   </div>
 </template>

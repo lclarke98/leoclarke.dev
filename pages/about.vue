@@ -1,8 +1,10 @@
 <template>
   <div>
     <Header/>
-    <div class="relative flex items-top justify-center min-h-screen bg-gray-100 sm:items-center sm:pt-0">
-        <h1>This is about</h1>
+    <div class="relative flex min-h-screen bg-gray-100 ">
+        <div class="p-20">
+          <h1 class="text-5xl">This is about</h1>
+        </div>
     </div>
   </div>
 </template>
