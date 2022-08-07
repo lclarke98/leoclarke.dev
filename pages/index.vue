@@ -2,6 +2,7 @@
   <div>
     <Header/>
     <Welcome/>
+    <Socials></Socials>
   </div>
 </template>
 

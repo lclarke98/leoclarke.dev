@@ -10,6 +10,8 @@
       <p class="text-2xl">Full Stack Software Developer</p>
     </div>
 
+
+
   </div>
 </template>
 
